@@ -113,8 +113,8 @@
 		5D4527B9233FB72000378863 /* VerControlTestTests */ = {
 			isa = PBXGroup;
 			children = (
-				5D4527BA233FB72000378863 /* VerControlTestTests.swift */,
 				5D4527BC233FB72000378863 /* Info.plist */,
+				5D4527BA233FB72000378863 /* VerControlTestTests.swift */,
 			);
 			path = VerControlTestTests;
 			sourceTree = "<group>";
