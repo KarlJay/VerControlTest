@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // just testing the VC system
     @IBAction func buttonPressed(_ sender: Any) {
         // this is where the button press goes
     }
@@ -18,6 +19,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    // just doing this so I can see the effect in the VC sytem
     @IBOutlet var labelLink: UILabel!
     
 }
